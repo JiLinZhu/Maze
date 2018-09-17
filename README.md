@@ -1,4 +1,4 @@
-# Maze
+# Mazely
 A program that analyzes the different algorithms of maze generation and solving. The process is shown through a GUI.
 
 Created in Feburary 2017 on Java using Netbeans.
